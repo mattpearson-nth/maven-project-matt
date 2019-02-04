@@ -27,6 +27,7 @@ derby.log
 # Recommended for Maven based projects 
 .project
 .classpath
+activemq-data/
 
 # External tool builders
 .externalToolBuilders/
