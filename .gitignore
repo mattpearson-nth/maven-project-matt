@@ -22,6 +22,7 @@ tmp/**/*
 *~.nib
 local.properties
 .settings/
+derby.log
 .loadpath
 # Recommended for Maven based projects 
 .project
